@@ -58,8 +58,9 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurvendra&count_private=true&show_icons=true&theme=tokyonight" />
+  <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvendra&theme=tokyonight" alt="gaurvendra" />
- <br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurvendra&theme=tokyonight" />
 
 
