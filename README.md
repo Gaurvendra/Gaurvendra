@@ -55,10 +55,10 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurvendra&count_private=true&show_icons=true&theme=tokyonight" />
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvendra&theme=tokyonight" alt="gaurvendra" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurvendra&theme=tokyonight" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvendra&theme=tokyonight" alt="gaurvendra" /></p>
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
