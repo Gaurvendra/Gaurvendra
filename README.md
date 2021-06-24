@@ -43,7 +43,7 @@
 <a href = 'https://www.linkedin.com/in/gaurvendra-singh-72b759191'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href = 'https://www.github.com/Gaurvendra'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;
  <a href = "mailto: gaurvendra19072001@gmail.com">
-  <img align="center" width="32px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+  <img align="center" width="42px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
   
 
@@ -54,7 +54,7 @@
 <br>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px'> </h2>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaurvendra&count_private=true&show_icons=true&theme=tokyonight" />
